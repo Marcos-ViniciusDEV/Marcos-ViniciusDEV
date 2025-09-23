@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
- My name is Marcos Vinicius, I am 22 years old. I am currently studying Software Engineering at UNINTER. On my Instagram profile, called "[devmarcosvinicius](https://www.instagram.com/devmarcosvinicius)", I share my journey towards landing my first internship or junior developer position.
+ My name is Marcos Vinícius, I am 22 years old. I am currently studying Software Engineering at UNINTER. On my Instagram profile, called "[devmarcosvinicius](https://www.instagram.com/devmarcosvinicius)", I share my journey towards landing my first internship or trainee developer position.
 ---
 
 ### 🤖 Linguagens e Tecnologias
